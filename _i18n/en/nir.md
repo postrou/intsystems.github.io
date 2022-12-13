@@ -27,6 +27,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Maria Kovaleva | 1 | Research of efficient transformers | [Alexey Zaytsev](https://faculty.skoltech.ru/people/alexeizaitsev)| [Paper](https://github.com/MarKovka20/Models-of-sequential-data-project/blob/main/proj_for_nir_presentation.pdf), [Code](https://github.com/MarKovka20/Models-of-sequential-data-project) |
 | Roman Klypa | 1 | Combination of geometrical learning and language models for bioinformatics | [Grudinin S.V.](https://team.inria.fr/nano-d/team-members/sergei-grudinin/)| [Slides](https://github.com/romanklypa/intsystems_thesis/blob/main/report.pdf) |
+| Polina Barabanshchikova | 1 | Optimization approach to Tverberg type theorems | [Polyanskii A.A.](https://mipt.ru/education/chairs/dm/staff/polyanskii.php)| [Paper](https://github.com/pollinab/MasterThesis/blob/main/Maximum_spanning_tree.pdf), [Slides] (https://github.com/pollinab/MasterThesis/blob/main/Slides_spanning_tree.pdf) |
 
 #### Fourth Year Bachelor Students
 
