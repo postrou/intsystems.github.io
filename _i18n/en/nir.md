@@ -20,8 +20,6 @@
 | Shokorov Viacheslav | 2 | Deep ensembles bootstrapping | Vetrov D.P. | [Notes](https://github.com/vshokorov/margin_based_ensembles_boosting/issues/5), [Code](https://github.com/vshokorov/margin_based_ensembles_boosting) |
 | Pankratov Viktor  | 2  | Probabilistic topic modeling | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov)  | [Paper](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/paper), [Code](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/code), [Slides](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/slides) |
 | Alsahanova Nadezhda  | 2  | Selection of tensor representations for multiview forecasting | [Strijov V.V.](http://www.ccas.ru/strijov/)  | [Paper](https://github.com/NadezhdaAlsahanova/MSThesis/tree/main/Doc), [Code](https://github.com/NadezhdaAlsahanova/MSThesis/tree/main/Code), [Slides](https://github.com/NadezhdaAlsahanova/MSThesis/tree/main/Slides) |
-|  |  |  |  |  |
-
 
 #### First Year Master Students
 
