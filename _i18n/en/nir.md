@@ -6,7 +6,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Vasiliy Alekseev | 3 | Incompleteness and Instability of Topic Models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://link.springer.com/article/10.1134/S106456242202003X), [Paper (conf.)](https://link.springer.com/chapter/10.1007/978-3-031-19032-2_12) |
 | Panchenko Sviatoslav | 1 | Graph Diffusion Models for the Task of Signal Decoding | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper (Article, draft)](https://github.com/intsystems/PanchenkoPhD2022/blob/main/paper/Panchenko2022ArticleDraft.pdf), [Code](https://github.com/intsystems/PanchenkoPhD2022/tree/main/code), [Slides (IDP conf.)](https://github.com/intsystems/PanchenkoPhD2022/blob/main/paper/PanhenkoIDPslides.pdf) |
-| Denis Tikhonov | 2 | Dimension reduction of tensor phase spaces in dynamical system simulation | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Denis-Tihonov/MsThesis/blob/main/Paper/Tikhonov2022Classification_rus.pdf), Code, [Slides](https://github.com/Denis-Tihonov/MsThesis/blob/main/Slides/Tikhonov2022ClassificationPresentation.pdf) |
+| Denis Tikhonov | 1 | Dimension reduction of tensor phase spaces in dynamical system simulation | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Denis-Tihonov/MsThesis/blob/main/Paper/Tikhonov2022Classification_rus.pdf), Code, [Slides](https://github.com/Denis-Tihonov/MsThesis/blob/main/Slides/Tikhonov2022ClassificationPresentation.pdf) |
 |  |  |  |  |  |
 
 
