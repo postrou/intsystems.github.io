@@ -35,7 +35,7 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Eduard Vladimirov | 4 | Ways to account for data noise in a Neural ODE model | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/intsystems/Vladimirov-BS-Thesis/raw/master/paper/VladimirovNODEandNoise.pdf), [Code](https://github.com/intsystems/Vladimirov-BS-Thesis/blob/master/code/main.ipynb) [Slides](https://github.com/intsystems/Vladimirov-BS-Thesis/tree/master/slides) |
+| Eduard Vladimirov | 4 | Ways to account for data noise in a Neural ODE model | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/intsystems/Vladimirov-BS-Thesis/raw/master/paper/VladimirovNODEandNoise.pdf), [Code](https://github.com/intsystems/Vladimirov-BS-Thesis/blob/master/code/main.ipynb), [Slides](https://github.com/intsystems/Vladimirov-BS-Thesis/raw/master/slides/VladimirovNODEandNoiseSlides.pdf) |
 | Antyshev Tikhon | 4 | Zero-order Mirror Descent for Saddle Point Problems | [Gasnikov A.V.](https://scholar.google.ru/citations?user=AmeE8qkAAAAJ&hl=ru) | [Paper](https://github.com/intsystems/Antyshev-Zero-order-methods-for-SP/tree/master/paper), [Code](https://github.com/intsystems/Antyshev-Zero-order-methods-for-SP), [Slides](https://github.com/intsystems/Antyshev-Zero-order-methods-for-SP/tree/master/slides) |
 
 
