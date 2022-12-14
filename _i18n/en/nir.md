@@ -10,6 +10,7 @@
 | Denis Tikhonov | 1 | Dimension reduction of tensor phase spaces in dynamical system simulation | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/Denis-Tihonov/MsThesis/blob/main/Paper/Tikhonov2022Classification_rus.pdf), Code, [Slides](https://github.com/Denis-Tihonov/MsThesis/blob/main/Slides/Tikhonov2022ClassificationPresentation.pdf) |
 | Alina Samokhina | 2 | Continous-in-time representations of signals | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code old](https://github.com/Alina-Samokhina/continuous_time_paper), [Paper published](http://www.ipiran.ru/journal_system/article/08696527220304.html), [Paper draft](https://www.overleaf.com/read/fcwdwfkhthnv), [Slides](https://www.overleaf.com/read/mhwjngzpfmps)|
 | Vasilii Novitskii | 2 | New Bounds for One-point Oracle in Stochastic Gradient-free Optimization | [Gasnikov A.V.](http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=27590) | [Paper 1](https://arxiv.org/abs/2101.03821), [Paper 2](https://arxiv.org/abs/2103.00321), [Slides](https://drive.google.com/file/d/1XLs65z9Yir-h4kgtQK-7ccqIYKL4g4U9/view?usp=sharing), [Code](https://drive.google.com/file/d/1RUPsCpTCSvPb9WYWTK8ybV89Z1RKzudj/view?usp=sharing)|
+| Polina Potapova | 3 | Topic modeling for multilingual topic search | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://www.overleaf.com/7641677752mmzmcfghzydj), [Code](https://github.com/machine-intelligence-laboratory/text_categorization)|
 |  |  |  |  |  |
 
 
