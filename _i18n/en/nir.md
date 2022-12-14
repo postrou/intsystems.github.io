@@ -32,6 +32,7 @@
 | Roman Klypa | 1 | Combination of geometrical learning and language models for bioinformatics | [Grudinin S.V.](https://team.inria.fr/nano-d/team-members/sergei-grudinin/)| [Slides](https://github.com/romanklypa/intsystems_thesis/blob/main/report.pdf) |
 | Polina Barabanshchikova | 1 | Optimization approach to Tverberg type theorems | [Polyanskii A.A.](https://mipt.ru/education/chairs/dm/staff/polyanskii.php)| [Paper](https://github.com/pollinab/MasterThesis/blob/main/Maximum_spanning_tree.pdf), [Slides](https://github.com/pollinab/MasterThesis/blob/main/Slides_spanning_tree.pdf) |
 | Ksenofontov Gregory | 1 | Creating a personalized avatar of a person for a virtual fitting of clothes | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov), Yanina A.O. | [Slides](https://github.com/gregkseno/master-thesis/blob/master/slides/1st/1st%20term.pdf) |
+| Yakovlev Konstantin | 1 | Concordant Neural Architecture Search on multi-domain data | [Bakhteev O.Y.](http://www.machinelearning.ru/wiki/index.php?title=Участник:Oleg_Bakhteev) | [Slides](https://github.com/Konstantin-Iakovlev/Slides/raw/main/IOI/main.pdf) |
 
 #### Fourth Year Bachelor Students
 
