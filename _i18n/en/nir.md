@@ -47,6 +47,7 @@
 | Ivan Lukyanenko | 4 | Joint NER and RE in manipulation news | Vorontsov K.V. | [Code](https://github.com/AlexeyVatolin/manipulation) [Slides](https://ru.overleaf.com/read/tzjhtywnzvvr) |
 | Kornilov Nikita | 4 | Gradient Free Optimization with Infinite Variance | [Gasnikov A.V.](https://scholar.google.ru/citations?user=AmeE8qkAAAAJ&hl=ru&oi=ao) | [Paper](https://github.com/Jhomanik/KornilovBSThesis/blob/main/paper/GradFree_with_inf__noise.pdf), [Slides](https://github.com/Jhomanik/KornilovBSThesis/blob/main/slides/InfZero_Grad_Pres.pdf) |
 | Georgiy Zharov | 4 | Search for manipulations and their relations with named entities in texts | Vorontsov K.V. | [Slides](https://drive.google.com/file/d/1oYjCU8GJPjGBfe2d_tHbeBHT1WyB8R5i/view?usp=share_link) |
+| Molozhavenko Alexander | 4 | Solution of a block multidimensional eigenvalues search problem | Gasnikov  A.V. | [Slides](https://www.overleaf.com/read/gxtnzbdhzhcj), [Code](https://github.com/SuperCrabLover/BachelorDiploma)
 
 
 ### 2022 SPRING
