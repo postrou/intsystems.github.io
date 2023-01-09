@@ -7,6 +7,7 @@
 - [Учебные курсы](/ru/course/) и [преподаватели](/ru/people/)
 - [Научные и учебные проекты](https://m1p.org)
 - **Youtube:** [Machine learning Phystech](https://www.youtube.com/c/MachineLearningPhystech)
+
 **Занятия:** 
 - бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom)
 - магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
