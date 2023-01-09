@@ -84,10 +84,13 @@
 | 16:10-17:40 | Научный семинар по специальности | Стрижов, руководители НИР | ?? | ?? |
 
 #### 4 курс, 8 семестр – среда
-- 10:30–12:00,	[Математические методы прогнозирования](/ru/course/forecasting_methods/index.html), экзамен ([Стрижов В.В.](/ru/people/strijov_vv/index.html))
-- 12:10–13:40,	[Анализ и распознавание изображений](/ru/course/image_processing_recognition/index.html), дифф. зач. ([Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html))
-- 14:30–16:00,	[Выбор моделей машинного обучения](/ru/course/bayesian_model_selection/index.html), экзамен ([Адуенко А.А.](/ru/people/aduenko_aa/index.html))
-- 16:10–17:40,	[Анализ сетей и текстов](/ru/course/networks_text_analysis/index.html), дифф. зач. ([Майсурадзе А.И.](/ru/people/meysuradze_ai/index.html))
+
+| Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
+|---|---|---|---|---|
+| 10:30-12:00 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Стрижов В.В.](/ru/people/strijov_vv/index.html) | Экзамен | 2 |
+| 12:10-13:40 | [Анализ и распознавание изображений](/ru/course/image_processing_recognition/index.html) | [Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html) | Дифф. зачет | 1 |
+| 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) | Экзамен | 2 |
+| 16:10-17:40 | [Анализ сетей и текстов](/ru/course/networks_text_analysis/index.html) | [Майсурадзе А.И.](/ru/people/meysuradze_ai/index.html) | Дифф. зачет | 1 |
 
 #### 5 курс, 10 семестр – среда
 <!-- - 10:30–12:00,	[Обработка сигналов](/ru/course/signal_processing/index.html), экзамен ([Стрижов В.В.](/ru/people/strijov_vv/index.html)) -->
