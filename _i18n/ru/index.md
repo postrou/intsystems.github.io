@@ -93,8 +93,11 @@
 | 16:10-17:40 | [Анализ сетей и текстов](/ru/course/networks_text_analysis/index.html) | [Майсурадзе А.И.](/ru/people/meysuradze_ai/index.html) | Дифф. зачет | 1 |
 
 #### 5 курс, 10 семестр – среда
-<!-- - 10:30–12:00,	[Обработка сигналов](/ru/course/signal_processing/index.html), экзамен ([Стрижов В.В.](/ru/people/strijov_vv/index.html)) -->
-- 12:10–13:40,	[Биоинформатика](/ru/course/bioinformatics/index.html), экзамен ([Торшин И.Ю.](/ru/people/torshin_iy/index.html))
-- 14:30–16:00,	[Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) ([Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html))
-- 16:10–17:40,	[Порождающие модели машинного обучения](/ru/course/deep_generative_models/index.html), экзамен ([Исаченко Р.В.](/ru/people/isachenko_rv/index.html))
-- 17:50–19:20,	[Программная инженерия](/ru/course/software_engineering_data_analysis/index.html), дифф. зач. ([Хританков А.С.](/ru/people/khritankov_as/index.html))
+
+| Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
+|---|---|---|---|---|
+| 10:30-12:00 | [Обработка сигналов](/ru/course/signal_processing/index.html) | [Стрижов В.В.](/ru/people/strijov_vv/index.html) | Экзамен | 2 |
+| 12:10-13:40 | [Биоинформатика](/ru/course/bioinformatics/index.html) | [Торшин И.Ю.](/ru/people/torshin_iy/index.html) | Дифф. зачет | 1 |
+| 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Экзамен | 2 |
+| 16:10-17:40 | [Порождающие модели машинного обучения](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html) | Дифф. зачет | 2 |
+| 17:50–19:20 | [Программная инженерия](/ru/course/software_engineering_data_analysis/index.html) | [Хританков А.С.](/ru/people/khritankov_as/index.html) | Дифф. зачет | 1 |
