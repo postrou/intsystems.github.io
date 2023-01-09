@@ -6,13 +6,10 @@
 - [Телеграм студентов](https://t.me/IS_MIPT) и [аспирантов](https://t.me/+BpMhAW-gWlM5OThi)
 - [Учебные курсы](/ru/course/) и [преподаватели](/ru/people/)
 - [Научные и учебные проекты](https://m1p.org)
-
-**Канал Youtube:** 
-* [Machine learning Phystech](https://www.youtube.com/c/MachineLearningPhystech)
-
-**Каналы для занятий:** 
-* бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom)
-* магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
+- **Youtube:** [Machine learning Phystech](https://www.youtube.com/c/MachineLearningPhystech)
+- **Занятия:** 
+-* бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom)
+-* магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
 
 ### Расписание занятий, весенний семестр 2023
 (предварительная версия)
