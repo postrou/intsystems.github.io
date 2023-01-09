@@ -46,7 +46,7 @@
 
 #### Осень 2022
 
-- **6 сентября** - начало занятий на кафдре
+- **6 сентября** - начало занятий на кафедре
 - **15 сентября** завершение приема заявок на научную стипендию
 - **13 октября** - завершение приема работ на конференцию МФТИ
 - **4 декабря** - конференция МФТИ, научные работы 6
@@ -74,11 +74,14 @@
 (предварительная версия)
 
 #### 3 курс, 6 семестр – четверг
-- 10:30–12:00,	[Моя первая научная статья](/ru/course/automation_scientific_research/index.html), дифф. зач. ([Стрижов В.В.](/ru/people/strijov_vv/index.html), [Грабовой А.В.](/ru/people/grabovoy_av/index.html))
-- 12:10–13:40,	[Введение в машинное обучение](/ru/course/introduction_machine_learning/index.html), дифф. зач. ([Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Воронцов К.В.](/ru/people/vorontsov_kv/index.html))
-- 14:30–16:00,	[Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python), зачет ([Апишев М.А.](people/apishev_ma/index.html))
-- 16:10–17:40,	[Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) ([Грабовой А.В.](people/grabovoy_av/index.html))
-- 16:10–17:40,	Научный семинар по специальности, дифф. зач. (Стрижов, руководители НИР)
+
+| Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
+|---|---|---|---|---|
+| 10:30-12:00 | [Моя первая научная статья](/ru/course/automation_scientific_research/index.html) | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Грабовой А.В.](/ru/people/grabovoy_av/index.html) | Дифф. зачет | 1 |
+| 12:10-13:40 | [Введение в машинное обучение](/ru/course/introduction_machine_learning/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Воронцов К.В.](/ru/people/vorontsov_kv/index.html) | Дифф. зачет | 1 |
+| 14:30-16:00 | [Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python) | [Апишев М.А.](people/apishev_ma/index.html) | Зачет | 2 |
+| 16:10-17:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.В.](people/grabovoy_av/index.html) | Зачет | 1 |
+| 16:10-17:40 | Научный семинар по специальности | Стрижов, руководители НИР | ?? | ?? |
 
 #### 4 курс, 8 семестр – среда
 - 10:30–12:00,	[Математические методы прогнозирования](/ru/course/forecasting_methods/index.html), экзамен ([Стрижов В.В.](/ru/people/strijov_vv/index.html))
