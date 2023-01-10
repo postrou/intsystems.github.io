@@ -50,36 +50,30 @@ nav:
   - id: "home"
     href: "/"
     name: site.nav.names.home
-    dropdown:
+  - id: "education"
+    href: "/education"
+    name: site.nav.names.education
   - id: "about"
     href: "/about"
     name: site.nav.names.about
-    dropdown:
   - id: "lecturers"
     href: "/people"
     name: site.nav.names.lecturers
-    dropdown:
   - id: "courses"
     href: "/course"
     name: site.nav.names.courses
-    dropdown:
   - id: "admission"
     href: "/admission"
     name: site.nav.names.admission
-    dropdown:
   - id: "materials"
     href: "/materials"
     name: site.nav.names.materials
-    dropdown:
     - id: "nir"
       href: "/materials/nir"
       name: site.nav.names.nir
     - id: "thesis"
       href: "/materials/thesis"
       name: site.nav.names.thesis
-    - id: "education"
-      href: "/materials/education"
-      name: site.nav.names.education
     - id: "seminars"
       href: "/materials/seminars"
       name: site.nav.names.seminars
