@@ -1,5 +1,5 @@
 brand:              /images/logo/logo_square.jpg
-image:              
+image:
 og:
   image:            /images/main/main.jpg
 
@@ -14,7 +14,7 @@ sidebar: true
 github: intsystems
 mail: research.n.math@gmail.com
 youtube: https://www.youtube.com/c/MachineLearningPhystech
-  
+
 header:
 - Machine Learning
 - Data Analysis
@@ -37,8 +37,8 @@ plugins:
   - jekyll-multiple-languages-plugin
   - jekyll-toc
   - jekyll-sitemap
-  
-languages: ["en", "ru"]
+
+languages: ["ru", "en"]
 
 exclude_from_localizations: ["images", "favicon.ico", "javascript", "style.scss"]
 
