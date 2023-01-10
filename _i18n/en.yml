@@ -17,6 +17,7 @@ site:
       materials: "materials"
       nir: "research reports"
       thesis: "theses"
+      templates: "templates"
       seminars: "seminars"
       paper_guidelines: "scientific paper writing"
 
@@ -146,7 +147,8 @@ titles:
   materials: Materials
   nir: Research Reports
   thesis: Theses
-  paper_guidelines: "Papers and theses writing guidelines"
+  templates: Educational program schedule
+  paper_guidelines: Papers and theses writing guidelines
   admission: Admission
   seminars: Scientific seminars
 
