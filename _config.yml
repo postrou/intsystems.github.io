@@ -38,7 +38,7 @@ plugins:
   - jekyll-toc
   - jekyll-sitemap
 
-languages: ["ru", "en"]
+languages: ["en", "ru"]
 
 exclude_from_localizations: ["images", "favicon.ico", "javascript", "style.scss"]
 
