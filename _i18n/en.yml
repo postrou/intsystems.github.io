@@ -5,21 +5,21 @@ site:
     address: |-
       Earth
 
-  name: "Intelligent Systems Phystech"
+  name: Intelligent Systems Phystech
 
   nav:
     names:
-      home: "home"
-      about: "about"
-      lecturers: "lecturers"
-      courses: "courses"
-      admission: "admission"
-      materials: "materials"
-      nir: "research reports"
-      thesis: "theses"
-      templates: "templates"
-      seminars: "seminars"
-      paper_guidelines: "scientific paper writing"
+      home: home
+      about: about
+      lecturers: lecturers
+      courses: courses
+      admission: admission
+      materials: materials
+      nir: research reports
+      thesis: theses
+      education: education
+      seminars: seminars
+      paper_guidelines: scientific paper writing
 
   global:
     course:
@@ -147,7 +147,7 @@ titles:
   materials: Materials
   nir: Research Reports
   thesis: Theses
-  templates: Educational program schedule
+  education: Educational program schedule
   paper_guidelines: Papers and theses writing guidelines
   admission: Admission
   seminars: Scientific seminars

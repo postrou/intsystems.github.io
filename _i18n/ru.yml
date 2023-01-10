@@ -5,21 +5,21 @@ site:
     address: |-
       Долгие пруды
 
-  name: "Интеллектуальные системы"
+  name: Интеллектуальные системы
 
   nav:
     names:
-      home: "главная"
-      about: "о кафедре"
-      lecturers: "преподаватели"
-      courses: "курсы"
-      materials: "материалы"
-      admission: "поступающим"
-      nir: "отчеты нир"
-      thesis: "дипломы"
-      templates: "учебный процесс"
-      seminars: "семинары"
-      paper_guidelines: "Как писать научные работы"
+      home: главная
+      about: о кафедре
+      lecturers: преподаватели
+      courses: курсы
+      materials: материалы
+      admission: поступающим
+      nir: отчеты нир
+      thesis: дипломы
+      education: учебный процесс
+      seminars: семинары
+      paper_guidelines: Как писать научные работы
 
   global:
     course:
@@ -145,10 +145,10 @@ titles:
   materials: Материалы
   nir: Отчеты НИР
   thesis: Дипломы
-  templates: Учебный процесс
+  education: Учебный процесс
   admission: Поступающим
-  seminars: "Научные семинары"
-  paper_guidelines: "Рекомендации по написанию ВКР и научных работ"
+  seminars: Научные семинары
+  paper_guidelines: Рекомендации по написанию ВКР и научных работ
 
 course:
   teachers: Преподаватели

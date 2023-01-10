@@ -77,9 +77,9 @@ nav:
     - id: "thesis"
       href: "/materials/thesis"
       name: site.nav.names.thesis
-    - id: "templates"
-      href: "/materials/templates"
-      name: site.nav.names.templates
+    - id: "education"
+      href: "/materials/education"
+      name: site.nav.names.education
     - id: "seminars"
       href: "/materials/seminars"
       name: site.nav.names.seminars
