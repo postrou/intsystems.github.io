@@ -1,7 +1,7 @@
 ---
 title: titles.education
 edit: true
-permalink: /materials/education/
+permalink: /education/
 meta_desc_en:  "Educational program schedule"
 meta_desc_ru: "Учебный процесс"
 ---

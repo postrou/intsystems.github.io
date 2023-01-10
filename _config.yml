@@ -89,30 +89,30 @@ defaults:
     values:
       toc: true
   - scope:
-      path:         ""
-      type:         "pages"
+      path: ""
+      type: "pages"
     values:
-      layout:       "page"
+      layout: "page"
   - scope:
-      path:         ""
-      type:         "materials"
+      path: ""
+      type: "materials"
     values:
-      layout:       "page"
+      layout: "page"
   - scope:
-      path:         ""
-      type:         "admission"
+      path: ""
+      type: "admission"
     values:
-      layout:       "page"
+      layout: "page"
   - scope:
-      path:         ""
-      type:         "people"
+      path: ""
+      type: "people"
     values:
-      layout:       "profile"
+      layout: "profile"
   - scope:
-      path:         ""
-      type:         "course"
+      path: ""
+      type: "course"
     values:
-      layout:       "course"
+      layout: "course"
 
 collections:
   people:
