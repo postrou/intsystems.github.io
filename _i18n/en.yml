@@ -4,9 +4,9 @@ site:
       Department of Intelligent Systems
     address: |-
       Earth
-    
+
   name: "Intelligent Systems Phystech"
-  
+
   nav:
     names:
       home: "home"
@@ -17,10 +17,9 @@ site:
       materials: "materials"
       nir: "research reports"
       thesis: "theses"
-      templates: "templates"
       seminars: "seminars"
-      paper_guidelines: "scientific paper writing"        
-  
+      paper_guidelines: "scientific paper writing"
+
   global:
     course:
       types:
@@ -35,7 +34,7 @@ site:
         template: TEMPLATE
 
 
-    
+
 peoples:
   name:
     grabovoy_av: Andrey Grabovoy
@@ -54,7 +53,7 @@ peoples:
     torshin_iy: Ivan Torshin
     rudakov_kv: Konstantin Rudakov
     zhuravlyov_yv: Yuri Zhuravlyov
-    apishev_ma: Murat Apishev     
+    apishev_ma: Murat Apishev
     gneushev_an: Alexander Gneushev
     dulin_sk: Sergey Dulin
     khoroshevsky_vf: Vladimir Khoroshevsky
@@ -67,7 +66,7 @@ peoples:
     samokhina_am: Alina Samokhina
     severilov_pa: Pavel Severilov
     bishuk_ay: Anton Bishuk
-    
+
   title:
     grabovoy_av: Andrey Grabovoy
     aduenko_aa: Aleksander Aduenko
@@ -85,20 +84,20 @@ peoples:
     torshin_iy: Ivan Torshin
     rudakov_kv: Konstantin Rudakov
     zhuravlyov_yv: Yuri Zhuravlyov
-    apishev_ma: Murat Apishev     
-    gneushev_an: Alexander Gneushev   
+    apishev_ma: Murat Apishev
+    gneushev_an: Alexander Gneushev
     dulin_sk: Sergey Dulin
     khoroshevsky_vf: Vladimir Khoroshevsky
     mohonko_ez: Elena Mohonko
     tsurkov_vi: Vladimir Tsurkov
     matveev_ia: Ivan Matveev
-    chekhovich_yv: Yury Chekhovich 
+    chekhovich_yv: Yury Chekhovich
     grebenkova_os: Olga Grebenkova
     filatov_av: Andrey Filatov
     samokhina_am: Alina Samokhina
     severilov_pa: Pavel Severilov
     bishuk_ay: Anton Bishuk
-    
+
 courses:
   name:
     automation_scientific_research: Automation of Scientific Research
@@ -138,7 +137,7 @@ courses:
     rnd_in_ai: Creation of Intelligent Systems
     signal_processing: Signal Processing
     software_engineering_data_analysis: Software Engineering for Data Analysis
-      
+
 titles:
   index: Intelligent Systems Phystech
   about: About
@@ -147,7 +146,6 @@ titles:
   materials: Materials
   nir: Research Reports
   thesis: Theses
-  templates: Templates
   paper_guidelines: "Papers and theses writing guidelines"
   admission: Admission
   seminars: Scientific seminars
@@ -155,14 +153,14 @@ titles:
 course:
   teachers: Lecturers
   website: Course Website
-  
+
 profile:
   website: Personal Website
   teaches: Teaches
-  
+
 metatags:
     lecturer: Lecturer of the Department of Intelligent Systems at MIPT
     bachelor_course: Course of the Bachelor program of Intelligent Systems at MIPT
     master_course: Course of the Master program of Intelligent Systems at MIPT
-    
-      
+
+

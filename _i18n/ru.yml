@@ -17,9 +17,9 @@ site:
       admission: "поступающим"
       nir: "отчеты нир"
       thesis: "дипломы"
-      templates: "заготовки"
+      templates: "учебный процесс"
       seminars: "семинары"
-      paper_guidelines: "Как писать научные работы"      
+      paper_guidelines: "Как писать научные работы"
 
   global:
     course:
@@ -37,7 +37,7 @@ site:
 peoples:
   name:
     grabovoy_av: Грабовой Андрей Валериевич
-    aduenko_aa: Адуенко Александр Александрович 
+    aduenko_aa: Адуенко Александр Александрович
     bakhteev_oy: Бахтеев Олег Юрьевич
     khrilchenko_ky: Хрыльченко Кирилл Ярославович
     isachenko_rv: Исаченко Роман Владимирович
@@ -65,10 +65,10 @@ peoples:
     samokhina_am: Самохина Алина Максимовна
     severilov_pa: Северилов Павел Андреевич
     bishuk_ay: Бишук Антон Юрьевич
-    
+
   title:
     grabovoy_av: Грабовой Андрей Валериевич
-    aduenko_aa: Адуенко Александр Александрович 
+    aduenko_aa: Адуенко Александр Александрович
     bakhteev_oy: Бахтеев Олег Юрьевич
     khrilchenko_ky: Хрыльченко Кирилл Ярославович
     isachenko_rv: Исаченко Роман Владимирович
@@ -83,14 +83,14 @@ peoples:
     torshin_iy: Торшин Иван Юрьевич
     rudakov_kv: Рудаков Константин Владимирович
     zhuravlyov_yv: Журавлев Юрий Иванович
-    apishev_ma: Апишев Мурат Азаматович    
-    gneushev_an: Гнеушев Александр Николаевич    
+    apishev_ma: Апишев Мурат Азаматович
+    gneushev_an: Гнеушев Александр Николаевич
     dulin_sk: Дулин Сергей Константинович
     khoroshevsky_vf: Хорошевский Владимир Федорович
     mohonko_ez: Мохонько Елена Захаровна
     tsurkov_vi: Цурков Владимир Иванович
     matveev_ia: Матвеев Иван Алексеевич
-    chekhovich_yv: Чехович Юрий Викторович    
+    chekhovich_yv: Чехович Юрий Викторович
     grebenkova_os: Гребенькова Ольга Сергеевна
     filatov_av: Филатов Андрей Викторович
     samokhina_am: Самохина Алина Максимовна
@@ -136,16 +136,16 @@ courses:
     rnd_in_ai: Создание интеллектуальных систем
     signal_processing: Обработка сигналов и многомерных массивов данных
     software_engineering_data_analysis: Программная инженерия для анализа данных
-      
+
 titles:
   index: Интеллектуальные системы
   about: О кафедре
   course: Курсы
   people: Преподаватели
   materials: Материалы
-  nir: Отчеты нир
+  nir: Отчеты НИР
   thesis: Дипломы
-  templates: Заготовки
+  templates: Учебный процесс
   admission: Поступающим
   seminars: "Научные семинары"
   paper_guidelines: "Рекомендации по написанию ВКР и научных работ"
@@ -153,11 +153,11 @@ titles:
 course:
   teachers: Преподаватели
   website: Страница курса
-  
+
 profile:
   website: Персональная страница
   teaches: Преподает
-  
+
 metatags:
     lecturer: Преподаватель Кафедры интеллектуальных систем МФТИ
     bachelor_course: Курс бакалаврской программы Кафедры интеллектуальных систем МФТИ
