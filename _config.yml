@@ -68,6 +68,7 @@ nav:
   - id: "materials"
     href: "/materials"
     name: site.nav.names.materials
+    dropdown:
     - id: "nir"
       href: "/materials/nir"
       name: site.nav.names.nir

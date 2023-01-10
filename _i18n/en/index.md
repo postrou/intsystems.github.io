@@ -16,5 +16,3 @@
 
 #### General MIPT schedule
 * [Schedule of the educational process](https://mipt.ru/about/departments/uchebniy/schedule/study/)
-* [Holiday Schedule](https://mipt.ru/about/departments/uchebniy/schedule/study/)
-* [Start of classes at MIPT](https://mipt.ru/about/departments/uchebniy/schedule/study/)
