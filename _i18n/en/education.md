@@ -9,7 +9,7 @@
 
 | Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
 |---|---|---|---|---|
-| 10:30-12:00 | [Моя первая научная статья](/ru/course/automation_scientific_research/index.html) | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Грабовой А.В.](/ru/people/grabovoy_av/index.html) | Дифф. зачет | 1 |
+| 10:30-12:00 | [Моя первая научная статья](/ru/course/automation_scientific_research/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Грабовой А.В.](/ru/people/grabovoy_av/index.html) | Дифф. зачет | 1 |
 | 12:10-13:40 | [Введение в машинное обучение](/ru/course/introduction_machine_learning/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Воронцов К.В.](/ru/people/vorontsov_kv/index.html) | Дифф. зачет | 1 |
 | 14:30-16:00 | [Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python) | [Апишев М.А.](people/apishev_ma/index.html) | Зачет | 2 |
 | 16:10-17:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.В.](people/grabovoy_av/index.html) | Зачет | 1 |
@@ -18,7 +18,7 @@
 
 | Время | Предмет  | Преподаватели  | Форма отчетности  | Зачетные единицы |
 |---|---|---|---|---|
-| 10:30-12:00 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Стрижов В.В.](/ru/people/strijov_vv/index.html) | Экзамен | 2 |
+| 10:30-12:00 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Самохина А.М.](/ru/people/samokhina_am/index.html) | Экзамен | 2 |
 | 12:10-13:40 | [Анализ и распознавание изображений](/ru/course/image_processing_recognition/index.html) | [Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html) | Дифф. зачет | 1 |
 | 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) | Экзамен | 2 |
 | 16:10-17:40 | [Анализ сетей и текстов](/ru/course/networks_text_analysis/index.html) | [Майсурадзе А.И.](/ru/people/meysuradze_ai/index.html) | Дифф. зачет | 1 |
