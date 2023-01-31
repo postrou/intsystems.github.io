@@ -1,3 +1,5 @@
+###  [Class timetable](/ru/education/)
+
 [Department of Intelligent Systems](/ru/about/) graduates bachelors and masters in the field of study "Applied Mathematics and physics".
 
 ### Announcements and Information
