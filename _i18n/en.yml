@@ -67,6 +67,7 @@ peoples:
     samokhina_am: Alina Samokhina
     severilov_pa: Pavel Severilov
     bishuk_ay: Anton Bishuk
+    grishanov_av: Alexey Grishanov
 
   title:
     grabovoy_av: Andrey Grabovoy
@@ -98,6 +99,7 @@ peoples:
     samokhina_am: Alina Samokhina
     severilov_pa: Pavel Severilov
     bishuk_ay: Anton Bishuk
+    grishanov_av: Alexey Grishanov
 
 courses:
   name:
@@ -116,6 +118,7 @@ courses:
     networks_text_analysis: Networks and Text Analysis
     neural_architecture_search: Neural Architecture Search
     probabilistic_topic_models: Probabilistic Topic Models
+    recommender_systems: Recommender Systems
     rnd_in_ai: Creation of Intelligent Systems
     signal_processing: Signal Processing
     software_engineering_data_analysis: Software Engineering for Data Analysis
@@ -135,6 +138,7 @@ courses:
     networks_text_analysis: Networks and Text Analysis
     neural_architecture_search: Neural Architecture Search
     probabilistic_topic_models: Probabilistic Topic Models
+    recommender_systems: Recommender Systems
     rnd_in_ai: Creation of Intelligent Systems
     signal_processing: Signal Processing
     software_engineering_data_analysis: Software Engineering for Data Analysis

@@ -65,6 +65,7 @@ peoples:
     samokhina_am: Самохина Алина Максимовна
     severilov_pa: Северилов Павел Андреевич
     bishuk_ay: Бишук Антон Юрьевич
+    grishanov_av: Гришанов Алексей Владимирович
 
   title:
     grabovoy_av: Грабовой Андрей Валериевич
@@ -96,6 +97,7 @@ peoples:
     samokhina_am: Самохина Алина Максимовна
     severilov_pa: Северилов Павел Андреевич
     bishuk_ay: Бишук Антон Юрьевич
+    grishanov_av: Гришанов Алексей Владимирович
 
 courses:
   name:
@@ -114,6 +116,7 @@ courses:
     networks_text_analysis: Анализ сетей и текстов
     neural_architecture_search: Поиск нейросетевых архитектур
     probabilistic_topic_models: Вероятностные тематические модели
+    recommender_systems: Рекоммендательные системы
     rnd_in_ai: Создание интеллектуальных систем
     signal_processing: Обработка сигналов
     software_engineering_data_analysis: Программная инженерия для анализа данных
@@ -133,6 +136,7 @@ courses:
     neural_architecture_search: Поиск нейросетевых архитектур
     natural_language_processing: Математические методы анализа текстов
     probabilistic_topic_models: Вероятностные тематические модели
+    recommender_systems: Рекоммендательные системы
     rnd_in_ai: Создание интеллектуальных систем
     signal_processing: Обработка сигналов и многомерных массивов данных
     software_engineering_data_analysis: Программная инженерия для анализа данных
