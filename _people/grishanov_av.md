@@ -3,10 +3,10 @@ title: peoples.title.grishanov_av
 name: peoples.name
 edit: true
 position: gs
-avatar:
-mail:
+avatar: grishanov_av.jpeg
+mail: grishanov.av@phystech.edu
 site:
-scholar:
+scholar: https://scholar.google.com/citations?user=LLgj-U4AAAAJ&hl=en
 orcid:
 mathnet:
 scopus:
