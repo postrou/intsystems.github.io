@@ -2,8 +2,10 @@
 
 ## Весенний семестр, 2023
 
-## Расписание занятий
-
+## Занятия онлайн 
+- бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom)
+- магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
+- канал Youtube [youtube.com/@MachineLearningPhystech](https://www.youtube.com/@MachineLearningPhystech)
 
 #### 3 курс, 6 семестр – четверг
 
