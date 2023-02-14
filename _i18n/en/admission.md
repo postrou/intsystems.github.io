@@ -5,11 +5,11 @@ The admission will be anounced in **May, June or July** at your request to mlalg
 
 ### Algorithm of admission, bachelors, 2nd year:
 
-1) A student fills in the [form](http://bit.ly/1lFrFha),
-2) solves one of the following tasks,
-3) makes an opinion about the work performed by the students of the department,
-4) on the appointed date, makes a three-minute report on the task and on the topic or work of interest,
-5) is waiting for the decision of the dean's office on the distribution to the department.
+1. A student fills in the [form](http://bit.ly/1lFrFha),
+2. solves one of the following tasks,
+3. makes an opinion about the work performed by the students of the department,
+4. on the appointed date, makes a three-minute report on the task and on the topic or work of interest,
+5. is waiting for the decision of the dean's office on the distribution to the department.
 
 ### The interview procedure from the point of view of the department teachers:
 1.Gathering the whole group of those wishing to enter the department,
