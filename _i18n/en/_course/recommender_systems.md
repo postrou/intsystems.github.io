@@ -1,15 +1,25 @@
 ### About
-To be announced
+Course objective is to provide comprehensive introduction to the field of Recommender Systems.
 
+- first part of the course will cover theoratical background for RecSys
+- next, we will discuss practical aspects of recommender system training and evaluation 
+- finally we will briefly cover counterfactual evaluation from logged feedback
 
 ### Syllabus
-To be announced
+1. Introduction
+2. Neighborhood-Based models
+3. Matrix Factorization models
+4. Content-based and Hybrid systems
+5. Two-level models
+6. Neural recommenders
+7. Multi-armed bandits
+8. Counterfactual evaluation
 
 ### Labworks
-To be announced
+Two homeworks during the course
 
 ### Grading
-To be announced
+Based on homework results
 
 ### Prerequisites
-To be announced
+Machine learning, deep learning
