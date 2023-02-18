@@ -14,7 +14,7 @@
 | 12:10-13:40 | [Введение в машинное обучение](/ru/course/introduction_machine_learning/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Воронцов К.В.](/ru/people/vorontsov_kv/index.html) | Дифф. зачет | 1 |
 | 14:30-16:00 | [Практикум по программированию на языке Питон](https://github.com/MelLain/mipt-python) | [Апишев М.А.](people/apishev_ma/index.html) | Зачет | 2 |
 | 16:10-17:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.В.](people/grabovoy_av/index.html) | Зачет | 1 |
-| 17:50-19:20 | [Автоматизация научных исследований](/ru/course/automation_scientific_research/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Дифф. зачет | 1 |
+| 17:50-19:20 | [Автоматизация научных исследований (Моя первая научная статья)](/ru/course/automation_scientific_research/index.html) | [Грабовой А.В.](/ru/people/grabovoy_av/index.html), [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Дифф. зачет | 1 |
 
 #### 4 курс, 8 семестр – вторник
 
