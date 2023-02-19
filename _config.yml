@@ -132,6 +132,7 @@ global:
     types:
     - bachelor
     - master
+    - deprecated
 
   people:
     roles:

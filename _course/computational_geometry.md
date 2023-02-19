@@ -2,10 +2,10 @@
 edit: true
 title: courses.title.computational_geometry
 name: courses.name
-type: bachelor
+type: deprecated
 avatar:
 lecturers: mestetskiy_lm
-site: 
+site:
 ---
 
 {% tf _course/computational_geometry.md %}

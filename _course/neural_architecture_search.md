@@ -2,10 +2,10 @@
 edit: true
 title: courses.title.neural_architecture_search
 name: courses.name
-type: master
+type: deprecated
 avatar:
 lecturers: potanin_ms
-site: 
+site:
 ---
 
 {% tf _course/neural_architecture_search.md %}

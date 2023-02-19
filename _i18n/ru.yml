@@ -26,6 +26,7 @@ site:
       types:
         bachelor: Бакалавриат
         master: Магистратура
+        deprecated: Больше не преподаются
     people:
       roles:
         hotd: Основатели кафедры

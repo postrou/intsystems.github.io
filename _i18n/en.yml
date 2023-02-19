@@ -26,6 +26,7 @@ site:
       types:
         bachelor: Bachelor
         master: Master
+        deprecated: No longer taught
     people:
       roles:
         hotd: Founders of the Department
