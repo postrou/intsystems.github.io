@@ -30,8 +30,8 @@ site:
       roles:
         hotd: Founders of the Department
         dos: Doctors of Science
-        phd: Ph.D, teachers
-        gs: Graduate Students, Instructors
+        phd: PhD
+        gs: Graduate Students
         template: TEMPLATE
 
 

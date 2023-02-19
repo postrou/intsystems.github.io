@@ -23,23 +23,20 @@ Openness of ideas, projects, results at all stages of study and research; contin
 ***My first scientific article: automation of scientific research***, read by V.V. Strijov, is a course that provides the basics for performing scientific research - from planning to presenting results. Each student chooses a personal project and receives a personal consultant and expert. For three months, the student prepares a scientific paper with theory and computational experiment. The results are presented at scientific conferences, articles are submitted to peer-reviewed journals.
 
 ### Main courses ([programs](/course/))
-- Machine Learning: Machine Learning Theory
+- Machine Learning
 - Automation of scientific research
-- Deep learning methods
-- Choice of machine learning models
-- Mathematical forecasting methods
-- Generative Machine Learning Models
-- Bayesian multi-modeling
-- Thematic modeling
-- Mathematical methods of text analysis
-- Optimization techniques in machine learning
+- Deep learning
+- Bayesian model selection
+- Forecasting methods
+- Deep generative models
+- Bayesian multimodeling
+- Probabilistic topic modeling
+- Natural language processing
 - Data analysis in metric spaces
-- Image processing, analysis and recognition
 - Signal processing
-- Statistical learning theory
-- Regression analysis
 - Bioinformatics
-- Software engineering technologies
+- Software engineering for data analysis
+- Recommender systems
 
 ### Scholarships
 - [Scientific academic scholarship to them. K.V. Rudakova](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/raw/master/images/Stipendia_im_Rudakova.pdf) is awarded to undergraduate and graduate students for academic and research excellence. Sponsored by Forexis Group.
