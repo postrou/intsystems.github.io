@@ -6,7 +6,7 @@
 
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Please, | paste | your | report | here |
+| Grishanov Alexey | 1 | Applying Reinforcement Learning for Recommendation Platform Personalization | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper](https://dl.acm.org/doi/pdf/10.1145/3523227.3551485), [Code](https://github.com/intsystems/GrishanovPHD2022/tree/main/code), [Slides](https://github.com/intsystems/GrishanovPHD2022/blob/main/paper/sber_ai_lab_seminar.pdf) |
 
 #### Second Year Master Students
 
