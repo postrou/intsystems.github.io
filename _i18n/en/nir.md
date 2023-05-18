@@ -18,7 +18,7 @@
 
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Please, | paste | your | report | here |
+| Yakovlev Konstantin | 1 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Code](https://github.com/Konstantin-Iakovlev/Concord-NAS/tree/rnn) |
 
 #### Fourth Year Bachelor Students
 
