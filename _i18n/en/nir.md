@@ -19,7 +19,7 @@
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Yakovlev Konstantin | 1 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Code](https://github.com/Konstantin-Iakovlev/Concord-NAS/tree/rnn) |
-| Kovaleva Maria | 1 |  Neural architecture search with early stopping | [Alexey Zaytsev](https://faculty.skoltech.ru/people/alexeizaitsev) | [Code]() |
+| Kovaleva Maria | 1 |  Neural architecture search with early stopping | [Alexey Zaytsev](https://faculty.skoltech.ru/people/alexeizaitsev) | [Code](https://github.com/MarKovka20/Project_reseach/tree/main) |
 
 #### Fourth Year Bachelor Students
 
