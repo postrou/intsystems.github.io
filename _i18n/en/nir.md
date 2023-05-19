@@ -12,7 +12,7 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Please, | paste | your | report | here |
+| Rustem Islamov | 2 | Distributed Newton-Type Methods with Communication Compression and Bernoulli Aggregation | [Strijov V.V.](http://www.ccas.ru/strijov/), [Richtarik P.](https://richtarik.org/) | [Paper](https://arxiv.org/abs/2206.03588), [Code](https://github.com/intsystems/Islamov-MS-Thesis/tree/main/Code), [Slides](https://github.com/intsystems/Islamov-MS-Thesis/blob/main/Presentation/Islamov2023PresentationMS.pdf) |
 
 #### First Year Master Students
 
