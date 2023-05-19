@@ -19,7 +19,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Rustem Islamov | 2 | Distributed Newton-Type Methods with Communication Compression and Bernoulli Aggregation | [Strijov V.V.](http://www.ccas.ru/strijov/), [Richtarik P.](https://richtarik.org/) | [Paper](https://arxiv.org/abs/2206.03588), [Code](https://github.com/intsystems/Islamov-MS-Thesis/tree/main/Code), [Slides](https://github.com/intsystems/Islamov-MS-Thesis/blob/main/Presentation/Islamov2023PresentationMS.pdf) |
 | Shokorov Viacheslav | 2 | Bootstrapping of neural network ensembles | Vetrov D.P. | [Slides](https://github.com/vshokorov/margin_based_ensembles_boosting/blob/main/reports/Slides_spring2023.pdf), [Code](https://github.com/vshokorov/margin_based_ensembles_boosting) |
-| Bishuk Anton | 2 | Controlled Graph Generation | [Zukhba A.V.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Zukhba_Anastasiya_Viktorovna#.YboMr31Bw-Q) | [Paper](https://github.com/intsystems/Bishuk-MS-Thesis/blob/main/paper/paper.pdf), [Code](https://github.com/intsystems/Bishuk-MS-Thesis/tree/main/code), [Slides](https://github.com/intsystems/Bishuk-MS-Thesis/blob/main/slides/Bishuk-MS-Report.pdf) |
+| Bishuk Anton | 2 | Controlled Graph Generation | [Zukhba A.V.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Zukhba_Anastasiya_Viktorovna#.YboMr31Bw-Q) | [Paper](https://github.com/intsystems/Bishuk-MS-Thesis/blob/main/paper/paper.pdf), [Code](https://github.com/intsystems/Bishuk-MS-Thesis/tree/main/code), [Slides](https://github.com/intsystems/Bishuk-MS-Thesis/blob/main/slides/slides.pdf) |
 
 
 #### First Year Master Students
