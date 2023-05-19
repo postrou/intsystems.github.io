@@ -13,6 +13,8 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Rustem Islamov | 2 | Distributed Newton-Type Methods with Communication Compression and Bernoulli Aggregation | [Strijov V.V.](http://www.ccas.ru/strijov/), [Richtarik P.](https://richtarik.org/) | [Paper](https://arxiv.org/abs/2206.03588), [Code](https://github.com/intsystems/Islamov-MS-Thesis/tree/main/Code), [Slides](https://github.com/intsystems/Islamov-MS-Thesis/blob/main/Presentation/Islamov2023PresentationMS.pdf) |
+| Shokorov Viacheslav | 2 | Bootstrapping of neural network ensembles | Vetrov D.P. | [Slides](https://github.com/vshokorov/margin_based_ensembles_boosting/blob/main/reports/Slides_spring2023.pdf), [Code](https://github.com/vshokorov/margin_based_ensembles_boosting) |
+
 
 #### First Year Master Students
 
