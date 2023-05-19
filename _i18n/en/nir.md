@@ -36,6 +36,7 @@
 | Kornilov Nikita | 4 | Gradient Free Methods for Non-Smooth Convex Stochastic Optimization with Heavy Tails on Convex Compact | Gasnikov A. V. | [Code](https://github.com/intsystems/Kornilov-BS-Thesis/tree/main) [Paper](https://github.com/intsystems/Kornilov-BS-Thesis/blob/main/paper/gradient_free_non_smooth_heavy_tails.pdf) [Slides](https://github.com/intsystems/Kornilov-BS-Thesis/blob/main/slides/InfZero_Grad_Pres.pdf)|
 | Lukyanenko Ivan | 4 | Detection of manipulations and its targets in news texts | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Code](https://github.com/intsystems/Lukyanenko-BS-Thesis), [Text](https://www.overleaf.com/read/zbqndyzfydpy), [Slides](https://www.overleaf.com/read/rkdykqwnvbzj)|
 | Zharov Georgiy | 4 | Classification of manipulative fragments in news texts | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Code](https://github.com/Egor-s-gor/Zharov-BS-Thesis/tree/main/models), [Slides](https://github.com/Egor-s-gor/Zharov-BS-Thesis/tree/main/slides)|
+| Vladimirov Eduard | 4 | Choosing a state space model in a neural decoding problem | [Strijov V.V.]([http://www.machinelearning.ru/wiki/index.php?title=User:Vokov](http://www.ccas.ru/strijov/)) | [Code1](https://github.com/Edyarich/annotated-s4), [Code2](https://github.com/Edyarich/ECGNet), [Slides](https://github.com/intsystems/Vladimirov-BS-Thesis/blob/master/slides/VladimirovTSModels.pdf)|
 
 
 ### 2022 AUTUMN
