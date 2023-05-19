@@ -25,7 +25,7 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Please, | paste | your | report | here |
+| Antyshev Tikhon | 4 | Gradient Sliding for Saddle Point problems with one composite | Gasnikov A. V. | [Code](https://github.com/intsystems/Antyshev-BS-Thesis) |
 
 ### 2022 AUTUMN
 
