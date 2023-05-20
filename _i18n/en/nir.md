@@ -23,8 +23,7 @@
 | Bishuk Anton | 2 | Controlled Graph Generation | [Zukhba A.V.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Zukhba_Anastasiya_Viktorovna#.YboMr31Bw-Q) | [Paper](https://github.com/intsystems/Bishuk-MS-Thesis/blob/main/paper/paper.pdf), [Code](https://github.com/intsystems/Bishuk-MS-Thesis/tree/main/code), [Slides](https://github.com/intsystems/Bishuk-MS-Thesis/blob/main/slides/slides.pdf) |
 | Pankratov Viktor  | 2  | Probabilistic topic modeling | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov)  | [Paper](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/paper), [Code](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/code), [Slides](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/slides) |
 | Grebenkova Olga | 2 | Automatic detection of focal cortical dysplasia for sparse data representation | [Burnaev E](https://faculty.skoltech.ru/people/evgenyburnaev) | [Draft](https://github.com/intsystems/Grebenkova-MS-Thesis/blob/main/Thesis_draft.pdf), [Code](https://github.com/intsystems/Grebenkova-MS-Thesis/tree/main), [Slides](https://github.com/intsystems/Grebenkova-MS-Thesis/blob/main/MSc_Thesis_PreDefence_Grebenkova.pdf) [Paper](https://www.scitepress.org/Link.aspx?doi=10.5220/0011626900003393)|
-
-
+| Nadezhda Alsahanova | 2 | Selection of tensor representations for multiview forecasting | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Draft]( https://github.com/NadezhdaAlsahanova/MSThesis/blob/main/Doc/Thesis_draft.pdf), [Code](https://github.com/NadezhdaAlsahanova/MSThesis/tree/main/Code/Final%20code), [Slides](https://github.com/NadezhdaAlsahanova/MSThesis/blob/main/Slides/Nadezhda_Alsahanova_SLIDES.pdf) |
 
 #### First Year Master Students
 
