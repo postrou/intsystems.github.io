@@ -31,7 +31,7 @@
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Yakovlev Konstantin | 1 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Code](https://github.com/Konstantin-Iakovlev/Concord-NAS/tree/rnn) |
-| Kovaleva Maria | 1 |  Neural architecture search with early stopping | [Alexey Zaytsev](https://faculty.skoltech.ru/people/alexeizaitsev) | [Code](https://github.com/MarKovka20/Project_reseach/tree/main) |
+| Kovaleva Maria | 1 |  Neural architecture search with early stopping | [Alexey Zaytsev](https://faculty.skoltech.ru/people/alexeizaitsev) | [Code](https://github.com/MarKovka20/Project_reseach/tree/main), [Slides](https://github.com/MarKovka20/Project_reseach/blob/main/presentation.pdf), [Draft](https://docs.google.com/document/d/1A0nhXXczofwsRUDMEmy6MImaiPf9JAJ5CazqGcetn5Q/edit?usp=sharing) |
 | Polina Barabanshchikova | 1 | Helly type problems for d-intervals | [Polyanskii A.A.](https://mipt.ru/education/chairs/dm/staff/polyanskii.php)| [Paper](https://arxiv.org/abs/2303.10706), [Slides](https://github.com/pollinab/MasterThesis/blob/main/Helly%20type%20problems%20for%20d-intervals.pdf) |
 
 #### Fourth Year Bachelor Students
