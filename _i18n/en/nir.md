@@ -12,6 +12,7 @@
 | Vasilii Novitskii | 2 | New Bounds for One-point Oracle in Stochastic Gradient-free Optimization | [Gasnikov A.V.](http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=27590) | [Paper 1](https://arxiv.org/abs/2101.03821), [Paper 2](https://arxiv.org/abs/2103.00321), [Slides](https://drive.google.com/file/d/1XLs65z9Yir-h4kgtQK-7ccqIYKL4g4U9/view?usp=sharing), [Code](https://drive.google.com/file/d/1RUPsCpTCSvPb9WYWTK8ybV89Z1RKzudj/view?usp=sharing) |
 | Vasiliy Alekseev | 3 | Incompleteness and Instability of Topic Models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper (draft)](https://github.com/intsystems/2023-Project-131/blob/master/paper/Gorbulev2023TopicModels.pdf), [Slides](https://github.com/intsystems/2023-Project-131/blob/master/slides/Gorbulev2023TopicModelsPresentation.pdf) |
 | Alina Samokhina | 2 | Continous-in-time representations of signals | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Code old](https://github.com/Alina-Samokhina/continuous_time_paper), [Paper draft](https://www.overleaf.com/read/bvrwfjgxnrjr), [Slides](https://www.overleaf.com/read/mhwjngzpfmps)|
+| Petr Ostroukhov | 4 | Tensor Methods for Convex Functions Minimization | [Gasnikov A.V.](http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=27590) | [Paper](https://www.overleaf.com/read/ghshtbymmwym), [Slides](https://disk.yandex.ru/i/9J6zoJHwsMRwqg)|
 
 #### Second Year Master Students
 
@@ -42,7 +43,7 @@
 | Lukyanenko Ivan | 4 | Detection of manipulations and its targets in news texts | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Code](https://github.com/intsystems/Lukyanenko-BS-Thesis), [Text](https://www.overleaf.com/read/zbqndyzfydpy), [Slides](https://www.overleaf.com/read/rkdykqwnvbzj)|
 | Zharov Georgiy | 4 | Classification of manipulative fragments in news texts | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Code](https://github.com/Egor-s-gor/Zharov-BS-Thesis/tree/main/models), [Slides](https://github.com/Egor-s-gor/Zharov-BS-Thesis/tree/main/slides)|
 | Vladimirov Eduard | 4 | Choosing a state space model in a neural decoding problem | [Strijov V.V.]([http://www.machinelearning.ru/wiki/index.php?title=User:Vokov](http://www.ccas.ru/strijov/)) | [Code1](https://github.com/Edyarich/annotated-s4), [Code2](https://github.com/Edyarich/ECGNet), [Slides](https://github.com/intsystems/Vladimirov-BS-Thesis/blob/master/slides/VladimirovTSModels.pdf)|
-| Molozhavenko Alexander | 4 | Solution of a block multidimensional eigenvalues search problem | Gasnikov  A.V. | [Slides](https://www.overleaf.com/read/gxtnzbdhzhcj), [Code](https://github.com/intsystems/Molozhavenko-BS-Thesis)
+
 
 ### 2022 AUTUMN
 
